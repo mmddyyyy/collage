@@ -1,0 +1,136 @@
+[id^="pic-"] {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	padding: 10px;
+	box-sizing: border-box;
+
+}
+img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+#pic-1{
+	transition: transform 3s ease-in;}
+#pic-1 :hover{
+	transform: scale(1.5);}
+
+#pic-2{
+	transition: transform 2s ease;}
+#pic-2 :hover{
+	transform: scale(1.5);}
+	#pic-3{
+	transition: transform 2s ease;}
+#pic-3 :hover{
+	transform: scale(2);}
+	#pic-4{
+	transition: transform 2s ease;}
+#pic-4 :hover{
+	transform: scale(2);}
+	#pic-5{
+	transition: transform 2s ease;}
+#pic-5 :hover{
+	transform: scale(2);}
+	#pic-6{
+	transition: transform 2s ease;}
+#pic-6 :hover{
+	transform: scale(2);}
+	#pic-7{
+	transition: transform 2s ease;}
+#pic-7 :hover{
+	transform: scale(2);}
+	#pic-8{
+	transition: transform 2s ease;}
+#pic-8 :hover{
+	transform: scale(2);}
+	#pic-9{
+	transition: transform 2s ease;}
+#pic-9 :hover{
+	transform: scale(2);}
+	#pic-10{
+	transition: transform 2s ease;}
+#pic-10 :hover{
+	transform: scale(2);}
+	#pic-11{
+	transition: transform 2s ease;}
+#pic-11 :hover{
+	transform: scale(2);}
+	#pic-12{
+	transition: transform 2s ease;}
+#pic-12 :hover{
+	transform: scale(2);}
+	#pic-13{
+	transition: transform 2s ease;}
+#pic-13 :hover{
+	transform: scale(2);}
+#pic-14{
+	transition: transform 2s ease;}
+#pic-14 :hover{
+	transform: scale(2);}
+#pic-15{
+	transition: transform 2s ease;}
+#pic-15 :hover{
+	transform: scale(2);}
+#pic-16{
+	transition: transform 2s ease;}
+#pic-16 :hover{
+	transform: scale(2);}
+#pic-17{
+	transition: transform 2s ease;}
+#pic-17 :hover{
+	transform: scale(2);}
+#pic-18{
+	transition: transform 2s ease;}
+#pic-18 :hover{
+	transform: scale(2);}
+#pic-19{
+	transition: transform 2s ease;}
+#pic-19 :hover{
+	transform: scale(2);}
+#pic-20{
+	transition: transform 2s ease;}
+#pic-20 :hover{
+	transform: scale(2);}
+#pic-21{
+	transition: transform 2s ease;}
+#pic-21 :hover{
+	transform: scale(2);}
+#pic-22{
+	transition: transform 2s ease;}
+#pic-22 :hover{
+	transform: scale(2);}
+#pic-23{
+	transition: transform 2s ease;}
+#pic-23 :hover{
+	transform: scale(2);}
+#pic-24{
+	transition: transform 2s ease;}
+#pic-24 :hover{
+	transform: scale(2);}
+iframe
+{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	right: 0;
+	z-index: -3;
+}
+#pagewrap {
+	width: 1300px;
+	margin: 0 auto;
+}
+
+
+
+/*animation: pics 2s ease 3s infinite
+	
+
+}
+@keyframes pics
+{
+	0% {transform: scale(0);}
+	100% {transform: scale(200);}
+
+}*/
